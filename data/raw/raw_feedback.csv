@@ -1,0 +1,301 @@
+feedback_id,student_id,week_number,rating,comments
+FB_1,STU_2204,5,3,Power BI DAX calculate function needs more real-world examples
+FB_2,STU_2067,4,4,Excel pivot tables and XLOOKUP session was very helpful
+FB_3,STU_2009,2,5,Python pandas groupby and merge operations were clear and easy
+FB_4,STU_2036,8,4,Need more hands-on support for Python SQLAlchemy database connection
+FB_5,STU_2145,7,4,"SQL window functions and CTEs are very confusing, need extra lab practice"
+FB_6,STU_2180,2,2,Need more hands-on support for Python SQLAlchemy database connection
+FB_7,STU_2041,7,4,Excel pivot tables and XLOOKUP session was very helpful
+FB_8,STU_2087,2,4,Python pandas groupby and merge operations were clear and easy
+FB_9,STU_2079,3,3,Excel pivot tables and XLOOKUP session was very helpful
+FB_10,STU_2193,1,5,Excel pivot tables and XLOOKUP session was very helpful
+FB_11,STU_2152,7,5,DAX time intelligence measures are tough to debug
+FB_12,STU_2214,4,4,"Data modeling star schema in Power BI is great, good pace"
+FB_13,STU_2154,6,5,Excel pivot tables and XLOOKUP session was very helpful
+FB_14,STU_2077,1,2,Struggling with SQL joins and subqueries in the weekly assignment
+FB_15,STU_2108,7,5,"Data modeling star schema in Power BI is great, good pace"
+FB_16,STU_2152,1,3,Python pandas groupby and merge operations were clear and easy
+FB_17,STU_2077,4,3,Python pandas groupby and merge operations were clear and easy
+FB_18,STU_2170,6,2,"SQL window functions and CTEs are very confusing, need extra lab practice"
+FB_19,STU_2080,3,5,Need more hands-on support for Python SQLAlchemy database connection
+FB_20,STU_2102,3,2,Excel pivot tables and XLOOKUP session was very helpful
+FB_21,STU_2169,3,3,Struggling with SQL joins and subqueries in the weekly assignment
+FB_22,STU_2078,5,3,Power BI DAX calculate function needs more real-world examples
+FB_23,STU_2061,4,2,DAX time intelligence measures are tough to debug
+FB_24,STU_2186,4,4,Python pandas groupby and merge operations were clear and easy
+FB_25,STU_2002,8,4,Python pandas groupby and merge operations were clear and easy
+FB_26,STU_2026,8,3,DAX time intelligence measures are tough to debug
+FB_27,STU_2121,7,3,Excel pivot tables and XLOOKUP session was very helpful
+FB_28,STU_2196,2,3,DAX time intelligence measures are tough to debug
+FB_29,STU_2082,3,4,DAX time intelligence measures are tough to debug
+FB_30,STU_2073,7,2,DAX time intelligence measures are tough to debug
+FB_31,STU_2089,8,3,"SQL window functions and CTEs are very confusing, need extra lab practice"
+FB_32,STU_2156,3,4,Struggling with SQL joins and subqueries in the weekly assignment
+FB_33,STU_2093,6,5,"SQL window functions and CTEs are very confusing, need extra lab practice"
+FB_34,STU_2020,4,5,Python pandas groupby and merge operations were clear and easy
+FB_35,STU_2049,1,4,Struggling with SQL joins and subqueries in the weekly assignment
+FB_36,STU_2112,2,5,Need more hands-on support for Python SQLAlchemy database connection
+FB_37,STU_2168,3,3,DAX time intelligence measures are tough to debug
+FB_38,STU_2073,5,5,DAX time intelligence measures are tough to debug
+FB_39,STU_2009,5,3,DAX time intelligence measures are tough to debug
+FB_40,STU_2042,7,5,Power BI DAX calculate function needs more real-world examples
+FB_41,STU_2207,2,2,Need more hands-on support for Python SQLAlchemy database connection
+FB_42,STU_2168,7,3,"SQL window functions and CTEs are very confusing, need extra lab practice"
+FB_43,STU_2082,3,5,DAX time intelligence measures are tough to debug
+FB_44,STU_2003,8,5,DAX time intelligence measures are tough to debug
+FB_45,STU_2198,1,5,"Data modeling star schema in Power BI is great, good pace"
+FB_46,STU_2067,2,4,Excel pivot tables and XLOOKUP session was very helpful
+FB_47,STU_2200,8,4,Need more hands-on support for Python SQLAlchemy database connection
+FB_48,STU_2029,3,5,DAX time intelligence measures are tough to debug
+FB_49,STU_2173,2,2,Python pandas groupby and merge operations were clear and easy
+FB_50,STU_2087,5,5,Struggling with SQL joins and subqueries in the weekly assignment
+FB_51,STU_2112,1,4,Excel pivot tables and XLOOKUP session was very helpful
+FB_52,STU_2011,2,5,Excel pivot tables and XLOOKUP session was very helpful
+FB_53,STU_2094,1,4,Need more hands-on support for Python SQLAlchemy database connection
+FB_54,STU_2109,6,2,"Data modeling star schema in Power BI is great, good pace"
+FB_55,STU_2139,5,4,Python pandas groupby and merge operations were clear and easy
+FB_56,STU_2092,7,5,"SQL window functions and CTEs are very confusing, need extra lab practice"
+FB_57,STU_2084,5,2,"SQL window functions and CTEs are very confusing, need extra lab practice"
+FB_58,STU_2092,1,3,DAX time intelligence measures are tough to debug
+FB_59,STU_2045,2,3,Power BI DAX calculate function needs more real-world examples
+FB_60,STU_2187,3,5,Excel pivot tables and XLOOKUP session was very helpful
+FB_61,STU_2071,6,3,Excel pivot tables and XLOOKUP session was very helpful
+FB_62,STU_2212,8,2,"SQL window functions and CTEs are very confusing, need extra lab practice"
+FB_63,STU_2084,6,3,"SQL window functions and CTEs are very confusing, need extra lab practice"
+FB_64,STU_2156,2,2,DAX time intelligence measures are tough to debug
+FB_65,STU_2087,5,5,DAX time intelligence measures are tough to debug
+FB_66,STU_2006,3,2,"Data modeling star schema in Power BI is great, good pace"
+FB_67,STU_2215,7,3,Power BI DAX calculate function needs more real-world examples
+FB_68,STU_2147,5,3,"Data modeling star schema in Power BI is great, good pace"
+FB_69,STU_2178,1,5,Need more hands-on support for Python SQLAlchemy database connection
+FB_70,STU_2056,7,3,"Data modeling star schema in Power BI is great, good pace"
+FB_71,STU_2071,1,3,DAX time intelligence measures are tough to debug
+FB_72,STU_2174,5,2,"Data modeling star schema in Power BI is great, good pace"
+FB_73,STU_2105,4,5,"SQL window functions and CTEs are very confusing, need extra lab practice"
+FB_74,STU_2169,3,4,"Data modeling star schema in Power BI is great, good pace"
+FB_75,STU_2119,6,3,Power BI DAX calculate function needs more real-world examples
+FB_76,STU_2058,1,3,Need more hands-on support for Python SQLAlchemy database connection
+FB_77,STU_2017,5,5,Excel pivot tables and XLOOKUP session was very helpful
+FB_78,STU_2163,6,5,DAX time intelligence measures are tough to debug
+FB_79,STU_2143,1,4,Need more hands-on support for Python SQLAlchemy database connection
+FB_80,STU_2082,6,3,Excel pivot tables and XLOOKUP session was very helpful
+FB_81,STU_2119,8,3,Struggling with SQL joins and subqueries in the weekly assignment
+FB_82,STU_2173,7,5,"Data modeling star schema in Power BI is great, good pace"
+FB_83,STU_2009,2,4,Excel pivot tables and XLOOKUP session was very helpful
+FB_84,STU_2022,4,4,Need more hands-on support for Python SQLAlchemy database connection
+FB_85,STU_2075,6,5,Excel pivot tables and XLOOKUP session was very helpful
+FB_86,STU_2008,3,4,Python pandas groupby and merge operations were clear and easy
+FB_87,STU_2145,7,2,DAX time intelligence measures are tough to debug
+FB_88,STU_2193,5,3,Excel pivot tables and XLOOKUP session was very helpful
+FB_89,STU_2097,3,2,DAX time intelligence measures are tough to debug
+FB_90,STU_2025,7,3,Struggling with SQL joins and subqueries in the weekly assignment
+FB_91,STU_2029,5,3,Python pandas groupby and merge operations were clear and easy
+FB_92,STU_2197,7,4,DAX time intelligence measures are tough to debug
+FB_93,STU_2193,4,4,DAX time intelligence measures are tough to debug
+FB_94,STU_2082,6,4,Power BI DAX calculate function needs more real-world examples
+FB_95,STU_2129,7,5,Struggling with SQL joins and subqueries in the weekly assignment
+FB_96,STU_2127,8,5,"Data modeling star schema in Power BI is great, good pace"
+FB_97,STU_2041,3,4,DAX time intelligence measures are tough to debug
+FB_98,STU_2001,6,3,Excel pivot tables and XLOOKUP session was very helpful
+FB_99,STU_2175,2,5,DAX time intelligence measures are tough to debug
+FB_100,STU_2108,7,2,Struggling with SQL joins and subqueries in the weekly assignment
+FB_101,STU_2159,4,2,Python pandas groupby and merge operations were clear and easy
+FB_102,STU_2154,7,4,"SQL window functions and CTEs are very confusing, need extra lab practice"
+FB_103,STU_2157,4,5,Python pandas groupby and merge operations were clear and easy
+FB_104,STU_2176,2,2,Need more hands-on support for Python SQLAlchemy database connection
+FB_105,STU_2191,7,3,Struggling with SQL joins and subqueries in the weekly assignment
+FB_106,STU_2118,6,3,Struggling with SQL joins and subqueries in the weekly assignment
+FB_107,STU_2121,4,3,Need more hands-on support for Python SQLAlchemy database connection
+FB_108,STU_2076,2,3,"SQL window functions and CTEs are very confusing, need extra lab practice"
+FB_109,STU_2148,8,3,Excel pivot tables and XLOOKUP session was very helpful
+FB_110,STU_2176,8,3,Struggling with SQL joins and subqueries in the weekly assignment
+FB_111,STU_2119,2,3,Need more hands-on support for Python SQLAlchemy database connection
+FB_112,STU_2063,8,2,Power BI DAX calculate function needs more real-world examples
+FB_113,STU_2192,1,5,DAX time intelligence measures are tough to debug
+FB_114,STU_2099,2,4,DAX time intelligence measures are tough to debug
+FB_115,STU_2184,2,5,"SQL window functions and CTEs are very confusing, need extra lab practice"
+FB_116,STU_2124,1,5,"Data modeling star schema in Power BI is great, good pace"
+FB_117,STU_2213,1,5,Need more hands-on support for Python SQLAlchemy database connection
+FB_118,STU_2184,8,2,DAX time intelligence measures are tough to debug
+FB_119,STU_2027,3,2,"Data modeling star schema in Power BI is great, good pace"
+FB_120,STU_2185,3,5,Need more hands-on support for Python SQLAlchemy database connection
+FB_121,STU_2169,6,3,Python pandas groupby and merge operations were clear and easy
+FB_122,STU_2204,8,4,Struggling with SQL joins and subqueries in the weekly assignment
+FB_123,STU_2025,6,5,Power BI DAX calculate function needs more real-world examples
+FB_124,STU_2182,8,4,Struggling with SQL joins and subqueries in the weekly assignment
+FB_125,STU_2088,5,4,Excel pivot tables and XLOOKUP session was very helpful
+FB_126,STU_2202,8,4,"Data modeling star schema in Power BI is great, good pace"
+FB_127,STU_2153,1,3,Python pandas groupby and merge operations were clear and easy
+FB_128,STU_2134,5,3,"SQL window functions and CTEs are very confusing, need extra lab practice"
+FB_129,STU_2095,6,4,"Data modeling star schema in Power BI is great, good pace"
+FB_130,STU_2184,3,5,"Data modeling star schema in Power BI is great, good pace"
+FB_131,STU_2183,8,3,"Data modeling star schema in Power BI is great, good pace"
+FB_132,STU_2191,3,4,Python pandas groupby and merge operations were clear and easy
+FB_133,STU_2099,5,2,Struggling with SQL joins and subqueries in the weekly assignment
+FB_134,STU_2055,5,2,Python pandas groupby and merge operations were clear and easy
+FB_135,STU_2067,6,5,DAX time intelligence measures are tough to debug
+FB_136,STU_2159,3,3,Need more hands-on support for Python SQLAlchemy database connection
+FB_137,STU_2151,6,5,Need more hands-on support for Python SQLAlchemy database connection
+FB_138,STU_2125,3,3,Excel pivot tables and XLOOKUP session was very helpful
+FB_139,STU_2124,7,2,"SQL window functions and CTEs are very confusing, need extra lab practice"
+FB_140,STU_2088,4,3,"Data modeling star schema in Power BI is great, good pace"
+FB_141,STU_2058,3,2,"Data modeling star schema in Power BI is great, good pace"
+FB_142,STU_2167,4,5,Need more hands-on support for Python SQLAlchemy database connection
+FB_143,STU_2118,1,3,Struggling with SQL joins and subqueries in the weekly assignment
+FB_144,STU_2094,1,2,DAX time intelligence measures are tough to debug
+FB_145,STU_2085,2,2,"Data modeling star schema in Power BI is great, good pace"
+FB_146,STU_2205,1,3,Excel pivot tables and XLOOKUP session was very helpful
+FB_147,STU_2063,5,3,Python pandas groupby and merge operations were clear and easy
+FB_148,STU_2059,8,2,Python pandas groupby and merge operations were clear and easy
+FB_149,STU_2156,5,2,"Data modeling star schema in Power BI is great, good pace"
+FB_150,STU_2191,4,3,Power BI DAX calculate function needs more real-world examples
+FB_151,STU_2134,5,3,"SQL window functions and CTEs are very confusing, need extra lab practice"
+FB_152,STU_2059,4,5,Excel pivot tables and XLOOKUP session was very helpful
+FB_153,STU_2026,1,2,Need more hands-on support for Python SQLAlchemy database connection
+FB_154,STU_2051,8,5,Power BI DAX calculate function needs more real-world examples
+FB_155,STU_2022,8,2,Struggling with SQL joins and subqueries in the weekly assignment
+FB_156,STU_2139,4,4,Excel pivot tables and XLOOKUP session was very helpful
+FB_157,STU_2146,1,2,DAX time intelligence measures are tough to debug
+FB_158,STU_2185,8,5,Struggling with SQL joins and subqueries in the weekly assignment
+FB_159,STU_2001,5,4,DAX time intelligence measures are tough to debug
+FB_160,STU_2127,3,5,Need more hands-on support for Python SQLAlchemy database connection
+FB_161,STU_2132,5,4,"Data modeling star schema in Power BI is great, good pace"
+FB_162,STU_2137,4,4,Need more hands-on support for Python SQLAlchemy database connection
+FB_163,STU_2174,5,2,Excel pivot tables and XLOOKUP session was very helpful
+FB_164,STU_2194,3,2,Excel pivot tables and XLOOKUP session was very helpful
+FB_165,STU_2082,8,3,Excel pivot tables and XLOOKUP session was very helpful
+FB_166,STU_2046,2,4,DAX time intelligence measures are tough to debug
+FB_167,STU_2025,8,3,Need more hands-on support for Python SQLAlchemy database connection
+FB_168,STU_2050,2,3,Struggling with SQL joins and subqueries in the weekly assignment
+FB_169,STU_2079,5,5,Need more hands-on support for Python SQLAlchemy database connection
+FB_170,STU_2027,5,3,Struggling with SQL joins and subqueries in the weekly assignment
+FB_171,STU_2083,3,5,Struggling with SQL joins and subqueries in the weekly assignment
+FB_172,STU_2202,3,3,Python pandas groupby and merge operations were clear and easy
+FB_173,STU_2084,8,4,DAX time intelligence measures are tough to debug
+FB_174,STU_2059,5,4,Excel pivot tables and XLOOKUP session was very helpful
+FB_175,STU_2095,3,4,"Data modeling star schema in Power BI is great, good pace"
+FB_176,STU_2187,6,5,Need more hands-on support for Python SQLAlchemy database connection
+FB_177,STU_2079,7,5,DAX time intelligence measures are tough to debug
+FB_178,STU_2002,7,5,"SQL window functions and CTEs are very confusing, need extra lab practice"
+FB_179,STU_2091,3,4,Excel pivot tables and XLOOKUP session was very helpful
+FB_180,STU_2005,4,4,Struggling with SQL joins and subqueries in the weekly assignment
+FB_181,STU_2076,6,4,"SQL window functions and CTEs are very confusing, need extra lab practice"
+FB_182,STU_2110,7,3,Need more hands-on support for Python SQLAlchemy database connection
+FB_183,STU_2205,4,4,Excel pivot tables and XLOOKUP session was very helpful
+FB_184,STU_2028,2,3,Struggling with SQL joins and subqueries in the weekly assignment
+FB_185,STU_2084,8,2,Excel pivot tables and XLOOKUP session was very helpful
+FB_186,STU_2200,7,3,Excel pivot tables and XLOOKUP session was very helpful
+FB_187,STU_2072,7,2,"SQL window functions and CTEs are very confusing, need extra lab practice"
+FB_188,STU_2015,6,4,"Data modeling star schema in Power BI is great, good pace"
+FB_189,STU_2113,5,5,Power BI DAX calculate function needs more real-world examples
+FB_190,STU_2035,2,5,Need more hands-on support for Python SQLAlchemy database connection
+FB_191,STU_2212,3,4,Python pandas groupby and merge operations were clear and easy
+FB_192,STU_2147,4,5,Power BI DAX calculate function needs more real-world examples
+FB_193,STU_2063,6,4,"Data modeling star schema in Power BI is great, good pace"
+FB_194,STU_2177,1,2,Python pandas groupby and merge operations were clear and easy
+FB_195,STU_2202,6,5,Need more hands-on support for Python SQLAlchemy database connection
+FB_196,STU_2192,4,4,Python pandas groupby and merge operations were clear and easy
+FB_197,STU_2120,4,4,Excel pivot tables and XLOOKUP session was very helpful
+FB_198,STU_2086,4,4,"Data modeling star schema in Power BI is great, good pace"
+FB_199,STU_2155,1,2,Python pandas groupby and merge operations were clear and easy
+FB_200,STU_2165,7,5,DAX time intelligence measures are tough to debug
+FB_201,STU_2207,8,2,"SQL window functions and CTEs are very confusing, need extra lab practice"
+FB_202,STU_2132,6,5,"SQL window functions and CTEs are very confusing, need extra lab practice"
+FB_203,STU_2009,6,4,Excel pivot tables and XLOOKUP session was very helpful
+FB_204,STU_2148,6,2,Power BI DAX calculate function needs more real-world examples
+FB_205,STU_2145,2,3,Power BI DAX calculate function needs more real-world examples
+FB_206,STU_2205,2,3,Excel pivot tables and XLOOKUP session was very helpful
+FB_207,STU_2193,2,4,DAX time intelligence measures are tough to debug
+FB_208,STU_2120,8,4,Python pandas groupby and merge operations were clear and easy
+FB_209,STU_2019,3,5,Need more hands-on support for Python SQLAlchemy database connection
+FB_210,STU_2136,7,5,"SQL window functions and CTEs are very confusing, need extra lab practice"
+FB_211,STU_2148,5,5,"SQL window functions and CTEs are very confusing, need extra lab practice"
+FB_212,STU_2005,1,4,Struggling with SQL joins and subqueries in the weekly assignment
+FB_213,STU_2110,3,3,"Data modeling star schema in Power BI is great, good pace"
+FB_214,STU_2150,6,3,Excel pivot tables and XLOOKUP session was very helpful
+FB_215,STU_2198,6,3,Python pandas groupby and merge operations were clear and easy
+FB_216,STU_2198,3,4,Struggling with SQL joins and subqueries in the weekly assignment
+FB_217,STU_2047,2,2,"SQL window functions and CTEs are very confusing, need extra lab practice"
+FB_218,STU_2200,3,2,Need more hands-on support for Python SQLAlchemy database connection
+FB_219,STU_2084,6,3,Struggling with SQL joins and subqueries in the weekly assignment
+FB_220,STU_2052,5,5,Python pandas groupby and merge operations were clear and easy
+FB_221,STU_2070,4,4,Struggling with SQL joins and subqueries in the weekly assignment
+FB_222,STU_2007,3,2,Excel pivot tables and XLOOKUP session was very helpful
+FB_223,STU_2214,7,5,"SQL window functions and CTEs are very confusing, need extra lab practice"
+FB_224,STU_2191,4,2,DAX time intelligence measures are tough to debug
+FB_225,STU_2115,8,3,DAX time intelligence measures are tough to debug
+FB_226,STU_2053,7,2,Power BI DAX calculate function needs more real-world examples
+FB_227,STU_2045,2,3,Python pandas groupby and merge operations were clear and easy
+FB_228,STU_2031,8,4,Need more hands-on support for Python SQLAlchemy database connection
+FB_229,STU_2107,4,2,Struggling with SQL joins and subqueries in the weekly assignment
+FB_230,STU_2205,6,4,Excel pivot tables and XLOOKUP session was very helpful
+FB_231,STU_2131,2,2,Excel pivot tables and XLOOKUP session was very helpful
+FB_232,STU_2002,7,5,DAX time intelligence measures are tough to debug
+FB_233,STU_2026,6,4,Need more hands-on support for Python SQLAlchemy database connection
+FB_234,STU_2215,2,4,DAX time intelligence measures are tough to debug
+FB_235,STU_2059,2,5,DAX time intelligence measures are tough to debug
+FB_236,STU_2005,5,2,Need more hands-on support for Python SQLAlchemy database connection
+FB_237,STU_2037,4,2,Python pandas groupby and merge operations were clear and easy
+FB_238,STU_2033,3,5,Python pandas groupby and merge operations were clear and easy
+FB_239,STU_2196,1,3,"SQL window functions and CTEs are very confusing, need extra lab practice"
+FB_240,STU_2190,5,5,Need more hands-on support for Python SQLAlchemy database connection
+FB_241,STU_2211,3,3,DAX time intelligence measures are tough to debug
+FB_242,STU_2045,3,4,Python pandas groupby and merge operations were clear and easy
+FB_243,STU_2029,3,5,"SQL window functions and CTEs are very confusing, need extra lab practice"
+FB_244,STU_2053,5,4,DAX time intelligence measures are tough to debug
+FB_245,STU_2216,5,2,Need more hands-on support for Python SQLAlchemy database connection
+FB_246,STU_2201,1,2,Need more hands-on support for Python SQLAlchemy database connection
+FB_247,STU_2121,1,5,Python pandas groupby and merge operations were clear and easy
+FB_248,STU_2012,7,3,Python pandas groupby and merge operations were clear and easy
+FB_249,STU_2026,1,3,Need more hands-on support for Python SQLAlchemy database connection
+FB_250,STU_2024,7,2,Power BI DAX calculate function needs more real-world examples
+FB_251,STU_2122,8,5,DAX time intelligence measures are tough to debug
+FB_252,STU_2035,1,5,"Data modeling star schema in Power BI is great, good pace"
+FB_253,STU_2121,5,4,Python pandas groupby and merge operations were clear and easy
+FB_254,STU_2169,6,5,Power BI DAX calculate function needs more real-world examples
+FB_255,STU_2127,4,3,Python pandas groupby and merge operations were clear and easy
+FB_256,STU_2132,3,3,Python pandas groupby and merge operations were clear and easy
+FB_257,STU_2169,2,5,Power BI DAX calculate function needs more real-world examples
+FB_258,STU_2073,2,3,Struggling with SQL joins and subqueries in the weekly assignment
+FB_259,STU_2065,3,4,"Data modeling star schema in Power BI is great, good pace"
+FB_260,STU_2182,8,3,"Data modeling star schema in Power BI is great, good pace"
+FB_261,STU_2084,7,3,Need more hands-on support for Python SQLAlchemy database connection
+FB_262,STU_2149,1,2,DAX time intelligence measures are tough to debug
+FB_263,STU_2204,4,2,Python pandas groupby and merge operations were clear and easy
+FB_264,STU_2037,1,3,Struggling with SQL joins and subqueries in the weekly assignment
+FB_265,STU_2102,6,5,"SQL window functions and CTEs are very confusing, need extra lab practice"
+FB_266,STU_2124,6,5,Struggling with SQL joins and subqueries in the weekly assignment
+FB_267,STU_2116,4,4,Excel pivot tables and XLOOKUP session was very helpful
+FB_268,STU_2140,8,4,Power BI DAX calculate function needs more real-world examples
+FB_269,STU_2168,6,3,Need more hands-on support for Python SQLAlchemy database connection
+FB_270,STU_2066,6,5,Excel pivot tables and XLOOKUP session was very helpful
+FB_271,STU_2170,2,4,Need more hands-on support for Python SQLAlchemy database connection
+FB_272,STU_2017,6,2,DAX time intelligence measures are tough to debug
+FB_273,STU_2140,3,3,Power BI DAX calculate function needs more real-world examples
+FB_274,STU_2118,2,4,Power BI DAX calculate function needs more real-world examples
+FB_275,STU_2033,6,5,"Data modeling star schema in Power BI is great, good pace"
+FB_276,STU_2112,2,5,Python pandas groupby and merge operations were clear and easy
+FB_277,STU_2210,4,3,Python pandas groupby and merge operations were clear and easy
+FB_278,STU_2199,1,4,Struggling with SQL joins and subqueries in the weekly assignment
+FB_279,STU_2135,3,4,"SQL window functions and CTEs are very confusing, need extra lab practice"
+FB_280,STU_2139,4,4,Python pandas groupby and merge operations were clear and easy
+FB_281,STU_2041,2,3,Python pandas groupby and merge operations were clear and easy
+FB_282,STU_2216,3,3,DAX time intelligence measures are tough to debug
+FB_283,STU_2072,1,4,DAX time intelligence measures are tough to debug
+FB_284,STU_2100,7,5,Excel pivot tables and XLOOKUP session was very helpful
+FB_285,STU_2083,3,2,"Data modeling star schema in Power BI is great, good pace"
+FB_286,STU_2020,5,3,"Data modeling star schema in Power BI is great, good pace"
+FB_287,STU_2188,2,5,"SQL window functions and CTEs are very confusing, need extra lab practice"
+FB_288,STU_2036,3,3,Excel pivot tables and XLOOKUP session was very helpful
+FB_289,STU_2196,4,3,DAX time intelligence measures are tough to debug
+FB_290,STU_2166,7,3,DAX time intelligence measures are tough to debug
+FB_291,STU_2064,6,3,Power BI DAX calculate function needs more real-world examples
+FB_292,STU_2071,3,2,DAX time intelligence measures are tough to debug
+FB_293,STU_2186,3,5,Struggling with SQL joins and subqueries in the weekly assignment
+FB_294,STU_2037,5,2,Need more hands-on support for Python SQLAlchemy database connection
+FB_295,STU_2164,2,2,"Data modeling star schema in Power BI is great, good pace"
+FB_296,STU_2198,8,5,Struggling with SQL joins and subqueries in the weekly assignment
+FB_297,STU_2077,2,3,Excel pivot tables and XLOOKUP session was very helpful
+FB_298,STU_2019,6,2,"Data modeling star schema in Power BI is great, good pace"
+FB_299,STU_2098,5,5,Power BI DAX calculate function needs more real-world examples
+FB_300,STU_2110,3,4,Excel pivot tables and XLOOKUP session was very helpful

@@ -1,0 +1,118 @@
+// ==============================================================================
+// Power BI DAX Measures for Student Lifecycle Analytics
+// File: dashboards/powerbi_dax_measures.dax
+// ==============================================================================
+
+// ------------------------------------------------------------------------------
+// 1. MARKETING & ENROLLMENT MEASURES
+// ------------------------------------------------------------------------------
+
+Total Leads = 
+COUNTROWS('fact_enrollments')
+
+Total Enrolled Students = 
+CALCULATE(
+    COUNTROWS('fact_enrollments'),
+    'fact_enrollments'[is_converted] = 1
+)
+
+Conversion Rate % = 
+DIVIDE(
+    [Total Enrolled Students],
+    [Total Leads],
+    0
+)
+
+Total Marketing Spend = 
+SUM('fact_enrollments'[ad_cost])
+
+CAC (Customer Acquisition Cost) = 
+DIVIDE(
+    [Total Marketing Spend],
+    [Total Enrolled Students],
+    0
+)
+
+// ------------------------------------------------------------------------------
+// 2. ATTENDANCE & ENGAGEMENT MEASURES
+// ------------------------------------------------------------------------------
+
+Total Scheduled Sessions = 
+COUNTROWS('fact_attendance')
+
+Sessions Attended = 
+CALCULATE(
+    COUNTROWS('fact_attendance'),
+    'fact_attendance'[status] = "Present"
+)
+
+Sessions Absent = 
+CALCULATE(
+    COUNTROWS('fact_attendance'),
+    'fact_attendance'[status] = "Absent"
+)
+
+Attendance Rate % = 
+DIVIDE(
+    [Sessions Attended],
+    [Total Scheduled Sessions],
+    0
+)
+
+At-Risk Student Count = 
+CALCULATE(
+    DISTINCTCOUNT('dim_students'[student_id]),
+    FILTER(
+        'dim_students',
+        [Attendance Rate %] < 0.75
+    )
+)
+
+// ------------------------------------------------------------------------------
+// 3. ACADEMICS & EXIT METRICS
+// ------------------------------------------------------------------------------
+
+Average Capstone Score = 
+AVERAGE('dim_students'[capstone_score])
+
+Min Capstone Score = 
+MIN('dim_students'[capstone_score])
+
+Max Capstone Score = 
+MAX('dim_students'[capstone_score])
+
+High Achiever Count (A / A+) = 
+CALCULATE(
+    COUNTROWS('dim_students'),
+    'dim_students'[mock_grade] IN {"A", "A+"}
+)
+
+High Achiever Ratio % = 
+DIVIDE(
+    [High Achiever Count (A / A+)],
+    COUNTROWS('dim_students'),
+    0
+)
+
+// ------------------------------------------------------------------------------
+// 4. FEEDBACK & SENTIMENT MEASURES
+// ------------------------------------------------------------------------------
+
+Total Feedback Submissions = 
+COUNTROWS('fact_feedback')
+
+Average Curriculum Rating = 
+AVERAGE('fact_feedback'[rating])
+
+Low Rating Submissions (<= 2 Stars) = 
+CALCULATE(
+    COUNTROWS('fact_feedback'),
+    'fact_feedback'[rating] <= 2
+)
+
+Dissatisfaction Rate % = 
+DIVIDE(
+    [Low Rating Submissions (<= 2 Stars)],
+    [Total Feedback Submissions],
+    0
+)

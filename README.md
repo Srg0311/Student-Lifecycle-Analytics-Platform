@@ -55,6 +55,13 @@ Student-Lifecycle-Analytics-Platform/
 ├── README.md                     # Documentation
 ├── requirements.txt              # Python dependencies
 │
+├── assets/                       # Dashboard preview screenshots
+│   ├── 01_executive_overview.png
+│   ├── 02_geographic_funnel.png
+│   ├── 03_attendance_retention.png
+│   ├── 04_academic_outcomes.png
+│   └── 05_curriculum_feedback.png
+│
 ├── data/
 │   └── raw/                      # Raw source CSV files
 │       ├── raw_leads.csv
@@ -105,7 +112,7 @@ The data warehouse uses a star schema structure:
 ### 2. Environment Setup
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/Student-Lifecycle-Analytics-Platform.git
+git clone https://github.com/Srg0311/Student-Lifecycle-Analytics-Platform.git
 cd Student-Lifecycle-Analytics-Platform
 
 # Create and activate virtual environment
@@ -176,3 +183,27 @@ Open your browser at `http://localhost:8501`.
 - **Attendance Progression:** Overall attendance begins at 84% in Session 1 and drops toward 78% by Session 12 as coursework difficulty increases.
 - **Retention Correlation:** Students maintaining 90%+ attendance averaged a 77.65 capstone score, outperforming cohorts with lower attendance rates.
 - **Curriculum Feedback:** Weekly feedback scores average 3.5 out of 5. Lower ratings (3 and below) commonly cite difficulty with SQL window functions and Power BI DAX formulas, highlighting topics that benefit from extra lab time.
+
+---
+
+## Dashboard Preview
+
+### 1. Executive & Marketing Overview
+![Executive Overview](assets/01_executive_overview.png)
+*Summary KPI metrics, cohort conversion rates, and acquisition cost (CAC) benchmarks by channel.*
+
+### 2. Geographic Conversion Funnel
+![Geographic Funnel](assets/02_geographic_funnel.png)
+*Postal code inquiry breakdown identifying regional volume and zero-conversion dead zones.*
+
+### 3. Student Attendance & Retention
+![Attendance & Retention](assets/03_attendance_retention.png)
+*Session-by-session retention trajectory (Sessions 1–20) and actionable at-risk student monitoring.*
+
+### 4. Academic Performance & Cohort Outcomes
+![Academic Outcomes](assets/04_academic_outcomes.png)
+*Capstone score distributions by course, mock interview grade breakdown, and student tech stack directory.*
+
+### 5. Curriculum Feedback & Sentiment
+![Curriculum Feedback](assets/05_curriculum_feedback.png)
+*Weekly student satisfaction ratings, star rating spread, and triaged qualitative feedback comments.*
